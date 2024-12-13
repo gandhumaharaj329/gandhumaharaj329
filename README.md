@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 this world is good lets make it better with code
 
 <!--
 **gandhumaharaj329/gandhumaharaj329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
